@@ -1,0 +1,9 @@
+[package]
+name = "skull"
+version = "0.1.0"
+authors = ["Benjamin Frye <ben.j.frye@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.1.2"
+
